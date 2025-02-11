@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+}
+
+button {
+    margin: 15px;
+}
+
+header{
+    background-color: rgb(3, 3, 54);
+    color: white;
+    padding: 15px;
+}
+
+header .container{
+    width: 50%;
+    margin: auto;
+    display: flex;
+
+}
+
+header .container .presentation{
+    margin: 15px;
+    padding: 15px;
+}
+
+.parcours{
+    display: flex;
+    align-items: center;
+}
+
+.parcours .logoUvci{
+    margin: 25px;
+}
+
+.parcours .parcoursUvci{
+    justify-content: center;
+}
+.parcours .parcoursUvci p{
+    margin: 150px;
+    font-size: 1.2rem;
+}
+
+.passion{
+    background-color: rgb(26, 26, 75);
+    display: flex;
+    justify-content: center;
+}
+
+.passion h3{
+    color: orange;
+    margin: 50px;
+}
+
+.passion p{
+    margin: 25px;
+    color: white;
+}
+
+footer{
+    padding: 100px;
+    color: orange;
+    background-color: black;
+    height: 50vh;
+}
+
+/*.info{
+   display: flex;
+   flex-direction: row;
+   align-items: center;
+}*/
+
+.info .newCastel p{
+    padding: 15px;
+}
+
+footer .auteur{
+    justify-items: end;
+}
+
+.auteur p{
+    color: white;
+}
+
+/*.info .newCastel form {
+    margin: 15px;
+}*/
