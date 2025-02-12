@@ -6,8 +6,20 @@ button {
     margin: 15px;
 }
 
+body{
+    background-image: url(For\ the\ freelancing\ &\ more.jpg);
+    background-repeat: repeat-x;
+    background-position: right;
+    background-attachment: fixed;
+    background-size: auto;
+}
+
 header{
     background-color: rgb(3, 3, 54);
+    background-image: url(téléchargement\ \(98\).jpg);
+    background-repeat: repeat-x;
+    background-position: right top;
+    background-attachment: fixed;
     color: white;
     padding: 15px;
 }
