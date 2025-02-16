@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
 *{
     margin: 0;
 }
@@ -7,6 +9,7 @@ button {
 }
 
 body{
+    font-family: "Raleway", serif;
     background-image: url(For\ the\ freelancing\ &\ more.jpg);
     background-repeat: repeat-x;
     background-position: right;
@@ -37,6 +40,7 @@ header .container .presentation{
 }
 
 .parcours{
+    font-family: "Poppins";
     display: flex;
     align-items: center;
     color: white;
